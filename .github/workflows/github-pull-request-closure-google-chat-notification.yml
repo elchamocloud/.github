@@ -1,0 +1,10 @@
+name: Pull Request Closure Notification
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  call-workflow:
+    uses: elchamocloud/github-actions-templates/.github/workflows/template-github-pull-request-closure-google-chat-notification.yml@main
+    secrets:
+      GCHAT_WEBHOOK: ${{ secrets.GCHAT_WEBHOOK }}
