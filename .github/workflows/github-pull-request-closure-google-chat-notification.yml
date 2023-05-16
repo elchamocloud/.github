@@ -1,4 +1,4 @@
-name: Pull Request Closure Notification
+name: Pull Request Closure - Google Chat Notification
 on:
   pull_request:
     types: [closed]

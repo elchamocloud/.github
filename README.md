@@ -5,10 +5,10 @@
 
 ---
 
-<h2 align="center">GitHub Actions</h2>
+<h2 align="center">GitHub Actions del Repositorio</h2>
 
 ---
   
-[![Pull Request Creation Notification](https://github.com/elchamocloud/elchamocloud/actions/workflows/github-pull-request-creation-google-chat-notification.yml/badge.svg)](https://github.com/elchamocloud/elchamocloud/actions/workflows/github-pull-request-creation-google-chat-notification.yml)  
+[![Pull Request Creation Google Chat Notification](https://github.com/elchamocloud/.github/actions/workflows/github-pull-request-creation-google-chat-notification.yml/badge.svg)](https://github.com/elchamocloud/.github/actions/workflows/github-pull-request-creation-google-chat-notification.yml)  
   
-[![Pull Request Closure Notification](https://github.com/elchamocloud/elchamocloud/actions/workflows/github-pull-request-closure-google-chat-notification.yml/badge.svg)](https://github.com/elchamocloud/elchamocloud/actions/workflows/github-pull-request-closure-google-chat-notification.yml)  
+[![Pull Request Closure Google Chat Notification](https://github.com/elchamocloud/.github/actions/workflows/github-pull-request-closure-google-chat-notification.yml/badge.svg)](https://github.com/elchamocloud/.github/actions/workflows/github-pull-request-closure-google-chat-notification.yml)  
