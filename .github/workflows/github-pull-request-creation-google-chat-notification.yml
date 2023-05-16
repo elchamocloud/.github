@@ -1,4 +1,4 @@
-name: Pull Request Creation Notification
+name: Pull Request Creation - Google Chat Notification
 on:
   pull_request:
     types: [opened]
