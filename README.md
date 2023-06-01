@@ -9,6 +9,6 @@
 
 ---
   
-[![Pull Request Creation Google Chat Notification](https://github.com/elchamocloud/.github/actions/workflows/github-pull-request-creation-google-chat-notification.yml/badge.svg)](https://github.com/elchamocloud/.github/actions/workflows/github-pull-request-creation-google-chat-notification.yml)  
+[![Notification from Github Pull Request Creation to Google Chat](https://github.com/elchamocloud/.github/actions/workflows/github-pull-request-creation-google-chat-notification.yml/badge.svg)](https://github.com/elchamocloud/.github/actions/workflows/github-pull-request-creation-google-chat-notification.yml)  
   
-[![Pull Request Closure Google Chat Notification](https://github.com/elchamocloud/.github/actions/workflows/github-pull-request-closure-google-chat-notification.yml/badge.svg)](https://github.com/elchamocloud/.github/actions/workflows/github-pull-request-closure-google-chat-notification.yml)  
+[![Notification from Github Pull Request Closure to Google Chat](https://github.com/elchamocloud/.github/actions/workflows/github-pull-request-closure-google-chat-notification.yml/badge.svg)](https://github.com/elchamocloud/.github/actions/workflows/github-pull-request-closure-google-chat-notification.yml)  

@@ -1,4 +1,4 @@
-name: Pull Request Closure - Google Chat Notification
+name: Notification from Github Pull Request Closure to Google Chat
 on:
   pull_request:
     types: [closed]
