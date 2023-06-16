@@ -1,2 +1,6 @@
 # scripts
 .scripts/
+
+# secrets
+.secrets/
+
