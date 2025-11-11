@@ -1,8 +1,9 @@
+<!--
 <p align="center">
         <img src="https://raw.githubusercontent.com/elchamocloud/.github/main/images/logo.png" alt="ElChamoCloud" width="100">
 </p>
 <br>
-
+-->
 <pre>
 #################################################################################################################
 #                      _____ _  ____ _                            ____ _                 _                      #
