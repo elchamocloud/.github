@@ -1,10 +1,10 @@
 <p align="center">
-        <img src="https://raw.githubusercontent.com/elchamocloud/.github/main/images/logo.png" alt="ElChamoCloud" width="250">
+        <img src="https://raw.githubusercontent.com/elchamocloud/.github/main/images/logo.png" alt="ElChamoCloud" width="100">
 </p>
 <br>
 
 <pre>
-####################################################################################################
+##########################################################################################################################
 #                _____ _  ____ _                            ____ _                 _               #
 #               | ____| |/ ___| |__   __ _ _ __ ___   ___  / ___| | ___  _   _  __| |              #
 #               |  _| | | |   | '_ \ / _` | '_ ` _ \ / _ \| |   | |/ _ \| | | |/ _` |              #
