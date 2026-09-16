@@ -1,4 +1,4 @@
-# elchamocloud/.github/.gitignore
+# elchamocloud/<repository-name>/.gitignore
 
 .DS_Store
 .terraform/
@@ -21,3 +21,4 @@ terraform.rc
 __pycache__/
 .secrets/
 .scripts/
+*.log
