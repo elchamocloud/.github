@@ -10,11 +10,10 @@
 
 Before working in this repository, read:
 
-1. ../AGENTS.md — workspace routing.
-2. ../organization-repo/AGENTS.md — organization authority and precedence.
-3. ../organization-repo/products-and-innovation/products/ElChamoCloud/AGENTS.md — project routing and boundaries.
-4. ../organization-repo/products-and-innovation/products/ElChamoCloud/README.md — canonical organization/product context.
-5. README.md and any repository-local documentation.
+1. ../organization-repo/AGENTS.md — organization authority and precedence.
+2. ../organization-repo/products-and-innovation/products/ElChamoCloud/AGENTS.md — project routing and boundaries.
+3. ../organization-repo/products-and-innovation/products/ElChamoCloud/README.md — canonical organization/product context.
+4. README.md and any repository-local documentation.
 
 ## Ownership
 
